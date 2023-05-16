@@ -15,3 +15,10 @@ The goal of this project is to create a system that can efficiently search and r
 - Vector Database: The project utilizes a vector database, we will use Pinecone, to store and index the document embeddings.
 - Question-Answering: Given a question, the system searches the vector database for the most similar document and retrieves the answer.
 
+## Future Enhancements
+- User Interface: Develop a web-based or command-line interface for easier interaction with the system.
+- Incremental Updates: Implement a mechanism to handle incremental updates to the document collection and embeddings.
+- Performance Optimization: Explore techniques to optimize the search and retrieval process for large-scale document collections.
+
+## Conclusion
+This project demonstrates the integration of the OpenAI API with a vector database for efficient question-answering tasks. By leveraging document embeddings, we can quickly search and retrieve answers from a large corpus of documents. The project provides a foundation for building more advanced QA systems with additional features and optimizations.
