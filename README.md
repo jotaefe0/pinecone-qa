@@ -1,6 +1,4 @@
-# pinecone-qa
-
-## OpenAI Document Embedding for QA Project
+# OpenAI Document Embedding for QA Project using Pinecone
 
 This project demonstrates the use of the OpenAI API to embed documents into a vector database for question-answering tasks.
 
